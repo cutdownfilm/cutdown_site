@@ -1,0 +1,21 @@
+{
+  "name": "cutdown_site",
+  "version": "1.0.0",
+  "description": "first",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cutdownfilm"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-contrib-jshint": "^3.2.0",
+    "grunt-contrib-nodeunit": "^5.0.0",
+    "grunt-contrib-uglify": "^5.2.2"
+  }
+}
